@@ -1,0 +1,21 @@
+1.  
+    Position in browser (SVG):
+    654.2679193096627
+    381.60576580742617
+    
+    longitude = 13.21008
+    latitude = 55.71106
+
+2.
+    Method Not Allowed
+    The method is not allowed for the requested URL.
+
+    This funktion does send information about 
+    drone movement and does not render any html files
+
+3.  row 25 or 27 
+    index.html, does this request to get to know where 
+    to put the red dot and the kordinates of the drone
+4. 
+    13.21008 / 10 000 = 
+    55.71106 / 10 000
